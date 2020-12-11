@@ -1,9 +1,8 @@
 # UFOs
-Using JavaScript, HTML, and CSS to create a webpage that shows UFO sightings around the world
 
 ## Overview of the analysis
 
-The purpose of this analysis is  
+The purpose of this analysis is create a webpage that showcases UFO sightings around the world. 
 
     Resources
      - Data Sources: data.js
