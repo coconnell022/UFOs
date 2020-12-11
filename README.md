@@ -10,12 +10,12 @@ The purpose of this analysis is create a webpage that showcases UFO sightings ar
 
 ## Results
 
-![alt text](https://github.com/coconnell022/UFOs/blob/main/Images/Webpage_1.png?raw=true)
-![alt text](https://github.com/coconnell022/UFOs/blob/main/Images/Webpage_2.png?raw=true)
+![alt text](https://github.com/coconnell022/UFOs/blob/main/Images%20for%20readme/Webpage_1.png?raw=true)
+![alt text](https://github.com/coconnell022/UFOs/blob/main/Images%20for%20readme/Webpage_2.png?raw=true)
 
 As shown in the image above, 
 
-![alt text](https://github.com/coconnell022/UFOs/blob/main/Images/Filtered_results.png?raw=true)
+![alt text](https://github.com/coconnell022/UFOs/blob/main/Images%20for%20readme/Filtered_results.png?raw=true)
 
 
 ## Summary
